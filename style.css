@@ -13,3 +13,16 @@
 body{
     background-size: cover;
 }
+
+
+
+h4{
+    size: 20px;
+}
+
+
+canvas{
+    background-color: aliceblue;
+    margin: 10px;
+    padding: 21px;
+}
