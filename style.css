@@ -1,0 +1,15 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 5px 5px rgb(39, 7, 112);
+}
+
+.note{
+    font-size: 15px;
+    color: rgb(53, 56, 77);
+}
+
+body{
+    background-size: cover;
+}
